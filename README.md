@@ -40,7 +40,7 @@ Right now my main project is **KeskOS**: a custom Arch-based desktop experience 
 <div align="center">
 
 <a href="https://github.com/KeskOS">
-  <img src="./logo.png" width="160" alt="KeskOS Logo" />
+  <img src="./logo.png" width="360" alt="KeskOS Logo" />
 </a>
 
 </div>
