@@ -96,9 +96,12 @@ goal        : controlled, minimal, atmospheric Linux desktop
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=geko&show_icons=true&theme=dark&bg_color=000000&title_color=ce6a35&text_color=f0f0f0&icon_color=ce6a35&border_color=ce6a35" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=memegeko&theme=github_dark" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geko&layout=compact&theme=dark&bg_color=000000&title_color=ce6a35&text_color=f0f0f0&border_color=ce6a35" />
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=memegeko&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=memegeko&theme=github_dark" />
 
 </div>
 
