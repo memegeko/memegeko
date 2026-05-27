@@ -112,7 +112,6 @@ goal        : controlled, minimal, atmospheric Linux desktop
 
 </div>
 
-> If the snake does not show yet, add the GitHub Action below.
 
 ---
 
