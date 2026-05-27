@@ -1,4 +1,3 @@
-````md
 <!-- KESKOS PROFILE README -->
 
 <div align="center">
@@ -109,7 +108,7 @@ goal        : controlled, minimal, atmospheric Linux desktop
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/geko/geko/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/memegeko/memegeko/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
