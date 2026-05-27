@@ -40,7 +40,7 @@ Right now my main project is **KeskOS**: a custom Arch-based desktop experience 
 <div align="center">
 
 <a href="https://github.com/KeskOS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeskOS&repo=keskos&theme=dark&bg_color=000000&title_color=ce6a35&text_color=f0f0f0&icon_color=ce6a35&border_color=ce6a35" />
+  <img src="./logo.png" width="160" alt="KeskOS Logo" />
 </a>
 
 </div>
