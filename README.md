@@ -1,136 +1,94 @@
-<!-- KESKOS PROFILE README -->
+<p align="center">
+  <img src="./assets/geko-aero-banner.svg" width="100%" alt="Geko — a personal corner of the internet" />
+</p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ce6a35,100:111111&height=180&section=header&text=Lucas%20Wiersma&fontSize=42&fontColor=ce6a35&animation=fadeIn&fontAlignY=35&desc=KeskOS%20Developer%20%7C%20System%20Engineer%20Student%20%7C%20Self-Hosted%20Chaos%20Enjoyer&descAlignY=58&descSize=15" />
+  <a href="https://geko.miku-dayo.com">
+    <img src="https://img.shields.io/badge/myhome-visit%20site-39C5BB?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=15324A" alt="Visit myhome" />
+  </a>
+  <a href="https://github.com/memegeko/aero7-shell">
+    <img src="https://img.shields.io/badge/aero7--shell-view%20project-66B8FF?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=15324A" alt="View Aero7-shell" />
+  </a>
+  <a href="mailto:lucas@miku-dayo.com">
+    <img src="https://img.shields.io/badge/email-say%20hello-86E36A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=15324A" alt="Email Lucas" />
+  </a>
 
-</div>
+  <br /><br />
 
-<div align="center">
-
-# 🟧 Welcome to the Machine
-
-### `the machine is yours, the code is its rulebook`
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=2500&pause=800&color=CE6A35&center=true&vCenter=true&width=900&lines=Building+KeskOS...;Dark+CRT+interfaces+and+industrial+Linux+vibes;Arch+Linux+%2B+KDE+Plasma+%2B+custom+tools;Self-hosting%2C+automation%2C+and+controlled+chaos" />
+  <b>ICT System Engineer student from the Netherlands</b><br />
+  <sub>Arch Linux, self-hosting, web projects, and an unreasonable amount of desktop theming.</sub>
 
 </div>
 
 ---
 
-## `// ABOUT_ME`
+## hey, i'm geko 👋
 
-```txt
-name        : Lucas Wiersma
-handle      : geko
-role        : ICT System Engineer Student
-focus       : Linux, self-hosting, UI/UX, automation, infrastructure
-main_build  : KeskOS
-aesthetic   : dark CRT / gamer-industrial / terminal machine
-status      : building systems that look like they boot from an abandoned server room
-````
+I'm **Lucas**, better known online as **Geko**. I like building things that feel personal: self-hosted sites, Linux desktops, game projects, and tiny pieces of the internet that still have some character.
 
-I build Linux-based systems, self-hosted services, and dark industrial interfaces with a strong terminal/CRT vibe.
-Right now my main project is **KeskOS**: a custom Arch-based desktop experience built around control, atmosphere, and a machine-like workflow.
-
----
-
-## `// FEATURED_PROJECT`
-
-<div align="center">
-
-<a href="https://github.com/KeskOS">
-  <img src="./logo.png" width="360" alt="KeskOS Logo" />
-</a>
-
-</div>
-
-### 🟧 KeskOS
-
-A custom Linux desktop project with a dark CRT/industrial design language.
-
-```txt
-base        : Arch Linux
-desktop     : KDE Plasma / custom shell components
-style       : black + orange, CRT scanlines, terminal overlays
-goal        : controlled, minimal, atmospheric Linux desktop
+```text
+handle       @memegeko
+daily drive  Arch Linux + KDE Plasma
+home lab     Proxmox, containers, VMs, Docker, Cloudflare
+current vibe Frutiger Aero + Windows 7 nostalgia + Hatsune Miku
+specialty    turning "wouldn't it be cool if..." into a real project
 ```
 
-> Built for people who want their OS to feel less like a toy and more like a machine.
+## what i'm building now
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://geko.miku-dayo.com">🏠 myhome</a></h3>
+      <p>A locally hosted, MySpace-style personal homepage with Frutiger Aero, Windows 7, and Miku-inspired energy.</p>
+      <p>It's my little social hub for music, projects, links, and whatever else belongs on my corner of the internet.</p>
+      <p><code>LIVE</code> <code>LOCAL SOURCE</code> <code>IN DEVELOPMENT</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/memegeko/aero7-shell">🪟 Aero7-shell</a></h3>
+      <p>A post-install setup system that turns a fresh minimal Arch installation into a KDE Plasma 6 Wayland desktop inspired by Windows 7 Ultimate.</p>
+      <p>Modular, resumable, reversible, and backed by its own signed Arch package repository.</p>
+      <p><code>PUBLIC</code> <code>ALPHA</code> <code>BASH</code> <code>ARCH LINUX</code></p>
+    </td>
+  </tr>
+</table>
 
-## `// TECH_STACK`
+## other things from the lab
+
+| Project | What it is | Status |
+| --- | --- | --- |
+| [**BackroomsBlocks**](https://github.com/memegeko/backrooms-blocks) | Fabric + Polymer Minecraft mod with server-side Backrooms blocks, generation, flickering lights, ambience, and vanilla-client support. | Active |
+| [**Aero7 Package Repository**](https://github.com/memegeko/aero7-repo) | Signed binary Arch package infrastructure for Aero7-shell. | Alpha |
+| [**Nightfall Casino**](https://github.com/memegeko/NIGHTFALL_casino) | Full-stack fake-credit casino simulator built as a finished school project. No real money or gambling. | Finished / archived |
+
+## tools i keep reaching for
 
 <div align="center">
 
-### Systems & Linux
-
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-000000?style=for-the-badge\&logo=archlinux\&logoColor=ce6a35)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux\&logoColor=ce6a35)
-![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-000000?style=for-the-badge\&logo=kde\&logoColor=ce6a35)
-![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge\&logo=gnubash\&logoColor=ce6a35)
-
-### Development
-
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge\&logo=typescript\&logoColor=ce6a35)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=ce6a35)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python\&logoColor=ce6a35)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react\&logoColor=ce6a35)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge\&logo=tailwindcss\&logoColor=ce6a35)
-
-### Hosting & Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge\&logo=docker\&logoColor=ce6a35)
-![Proxmox](https://img.shields.io/badge/Proxmox-000000?style=for-the-badge\&logo=proxmox\&logoColor=ce6a35)
-![Nginx](https://img.shields.io/badge/Nginx-111111?style=for-the-badge\&logo=nginx\&logoColor=ce6a35)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge\&logo=cloudflare\&logoColor=ce6a35)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge\&logo=postgresql\&logoColor=ce6a35)
-![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge\&logo=redis\&logoColor=ce6a35)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-15324A?style=for-the-badge&logo=archlinux&logoColor=39C5BB)
+![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-15324A?style=for-the-badge&logo=kde&logoColor=66B8FF)
+![Linux](https://img.shields.io/badge/Linux-15324A?style=for-the-badge&logo=linux&logoColor=86E36A)
+![Bash](https://img.shields.io/badge/Bash-15324A?style=for-the-badge&logo=gnubash&logoColor=39C5BB)
+![Java](https://img.shields.io/badge/Java-15324A?style=for-the-badge&logo=openjdk&logoColor=66B8FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-15324A?style=for-the-badge&logo=typescript&logoColor=39C5BB)
+![Node.js](https://img.shields.io/badge/Node.js-15324A?style=for-the-badge&logo=nodedotjs&logoColor=86E36A)
+![Docker](https://img.shields.io/badge/Docker-15324A?style=for-the-badge&logo=docker&logoColor=66B8FF)
+![Proxmox](https://img.shields.io/badge/Proxmox-15324A?style=for-the-badge&logo=proxmox&logoColor=39C5BB)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-15324A?style=for-the-badge&logo=cloudflare&logoColor=86E36A)
 
 </div>
 
----
-
-## `// GITHUB_STATS`
+## github weather report
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=memegeko&theme=github_dark" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=memegeko&show_icons=true&hide_border=false&bg_color=0D1B2A&title_color=39C5BB&text_color=EAFBFF&icon_color=86E36A&border_color=39C5BB&rank_icon=github" alt="Geko's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=memegeko&layout=compact&hide_border=false&bg_color=0D1B2A&title_color=39C5BB&text_color=EAFBFF&border_color=39C5BB" alt="Geko's most used languages" />
 
-<br><br>
+  <br /><br />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=memegeko&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=memegeko&theme=github_dark" />
-
-</div>
-
----
-
-## `// CONTRIBUTION_SNAKE`
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/memegeko/memegeko/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-
----
-
-## `// CONTACT`
-
-<div align="center">
-
-<a href="https://keskos.org">
-  <img src="https://img.shields.io/badge/Website-keskos.org-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=ce6a35&labelColor=111111&color=ce6a35" />
-</a>
-
-<a href="mailto:lucas@keskos.org">
-  <img src="https://img.shields.io/badge/Email-lucas@keskos.org-000000?style=for-the-badge&logo=gmail&logoColor=ce6a35&labelColor=111111&color=ce6a35" />
-</a>
-
-<img src="https://img.shields.io/badge/Discord-meme__geko-000000?style=for-the-badge&logo=discord&logoColor=ce6a35&labelColor=111111&color=ce6a35" />
+  <img src="https://raw.githubusercontent.com/memegeko/memegeko/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 
 </div>
 
@@ -138,13 +96,7 @@ goal        : controlled, minimal, atmospheric Linux desktop
 
 <div align="center">
 
-```txt
-SYSTEM ONLINE
-KERNEL MOOD: ORANGE
-MACHINE STATE: WAITING FOR INPUT
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:ce6a35,100:000000&height=120&section=footer" />
+  <b>professional leek enjoyer 🌱</b><br />
+  <sub>made with too much teal, several VMs, and absolutely no restraint.</sub>
 
 </div>
-```
