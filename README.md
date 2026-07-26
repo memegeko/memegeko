@@ -52,7 +52,7 @@ specialty    turning "wouldn't it be cool if..." into a real project
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://geko.miku-dayo.com">🏠 myhome</a></h3>
+      <h3><a href="https://github.com/memegeko/MyHome">🏠 myhome</a></h3>
       <p>A locally hosted, MySpace-style personal homepage with Frutiger Aero, Windows 7, and Miku-inspired energy.</p>
       <p>It's my little social hub for music, projects, links, and whatever else belongs on my corner of the internet.</p>
       <p><code>LIVE</code> <code>LOCAL SOURCE</code> <code>IN DEVELOPMENT</code></p>
