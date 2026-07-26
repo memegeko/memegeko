@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Geko profile banner</title>
+  <desc id="desc">A bright Frutiger Aero inspired landscape with a glass panel, bubbles, a leek, and the name Geko.</desc>
+
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#35bdf5"/>
+      <stop offset="0.58" stop-color="#8ae6ff"/>
+      <stop offset="1" stop-color="#e8fbff"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".78"/>
+      <stop offset=".45" stop-color="#d9fbff" stop-opacity=".48"/>
+      <stop offset="1" stop-color="#53cce5" stop-opacity=".35"/>
+    </linearGradient>
+    <linearGradient id="grass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7aee6e"/>
+      <stop offset="1" stop-color="#19a94f"/>
+    </linearGradient>
+    <linearGradient id="leek" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#bcffcf"/>
+      <stop offset="1" stop-color="#f9fff9"/>
+    </linearGradient>
+    <radialGradient id="bubble" cx=".32" cy=".25" r=".72">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".9"/>
+      <stop offset=".32" stop-color="#d9fbff" stop-opacity=".35"/>
+      <stop offset=".76" stop-color="#39c5bb" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".65"/>
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#0d4e79" flood-opacity=".28"/>
+    </filter>
+    <filter id="textShadow" x="-20%" y="-30%" width="140%" height="170%">
+      <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#087a91" flood-opacity=".55"/>
+    </filter>
+    <clipPath id="panelClip">
+      <rect x="130" y="68" width="940" height="218" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#sky)"/>
+  <circle cx="1030" cy="64" r="78" fill="#fffbd1" opacity=".78"/>
+  <g fill="#ffffff" opacity=".9">
+    <ellipse cx="160" cy="76" rx="86" ry="28"/>
+    <ellipse cx="100" cy="83" rx="55" ry="21"/>
+    <ellipse cx="220" cy="85" rx="62" ry="22"/>
+    <ellipse cx="806" cy="62" rx="71" ry="23"/>
+    <ellipse cx="756" cy="70" rx="45" ry="17"/>
+    <ellipse cx="854" cy="70" rx="48" ry="18"/>
+  </g>
+
+  <path d="M0 270C150 208 280 230 403 264C546 304 684 289 804 245C940 196 1067 209 1200 257V360H0Z" fill="#baf37c"/>
+  <path d="M0 304C158 251 311 258 451 303C590 347 752 330 881 283C1001 240 1100 257 1200 294V360H0Z" fill="url(#grass)"/>
+
+  <g opacity=".78">
+    <circle cx="75" cy="212" r="35" fill="url(#bubble)" stroke="#fff" stroke-width="2"/>
+    <circle cx="1110" cy="184" r="51" fill="url(#bubble)" stroke="#fff" stroke-width="2"/>
+    <circle cx="1135" cy="86" r="18" fill="url(#bubble)" stroke="#fff" stroke-width="1.5"/>
+    <circle cx="65" cy="112" r="14" fill="url(#bubble)" stroke="#fff" stroke-width="1.5"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="130" y="68" width="940" height="218" rx="24" fill="url(#glass)" stroke="#ffffff" stroke-width="3"/>
+    <rect x="141" y="79" width="918" height="196" rx="17" fill="none" stroke="#39c5bb" stroke-opacity=".52"/>
+  </g>
+
+  <g clip-path="url(#panelClip)" opacity=".52">
+    <path d="M90 95C340 10 616 73 746 158C858 231 1056 212 1125 118V46H90Z" fill="#ffffff"/>
+  </g>
+
+  <g transform="translate(174 103) rotate(-7)">
+    <path d="M39 69C13 34 10 8 18 0C30 12 42 30 49 48C47 22 52 4 64-4C72 14 72 38 64 61C76 39 91 27 104 28C101 47 85 66 62 80Z" fill="#159f62"/>
+    <path d="M43 66C55 62 67 66 72 77L83 122C87 142 75 160 56 163C38 166 23 153 25 134L31 83C32 75 36 69 43 66Z" fill="url(#leek)" stroke="#35bd86" stroke-width="3"/>
+    <path d="M31 103L75 95" stroke="#8de9bb" stroke-width="4" opacity=".65"/>
+  </g>
+
+  <g filter="url(#textShadow)" font-family="Segoe UI, Trebuchet MS, sans-serif" text-anchor="middle">
+    <text x="635" y="159" font-size="78" font-weight="800" letter-spacing="7" fill="#ffffff">GEKO</text>
+    <text x="635" y="197" font-size="22" font-weight="650" letter-spacing="1.4" fill="#126a86">WELCOME TO MY CORNER OF THE INTERNET</text>
+  </g>
+
+  <g font-family="Segoe UI, Trebuchet MS, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+    <g transform="translate(396 222)">
+      <rect width="145" height="34" rx="17" fill="#15324a" fill-opacity=".82" stroke="#fff" stroke-opacity=".8"/>
+      <circle cx="18" cy="17" r="5" fill="#86e36a"/>
+      <text x="82" y="22" fill="#fff">MYHOME ONLINE</text>
+    </g>
+    <g transform="translate(551 222)">
+      <rect width="137" height="34" rx="17" fill="#15324a" fill-opacity=".82" stroke="#fff" stroke-opacity=".8"/>
+      <text x="68.5" y="22" fill="#fff">ARCH + KDE</text>
+    </g>
+    <g transform="translate(698 222)">
+      <rect width="146" height="34" rx="17" fill="#15324a" fill-opacity=".82" stroke="#fff" stroke-opacity=".8"/>
+      <text x="73" y="22" fill="#fff">MIKU DAYO!</text>
+    </g>
+  </g>
+
+  <g fill="#fff" opacity=".95">
+    <circle cx="132" cy="322" r="3"/>
+    <circle cx="166" cy="310" r="2"/>
+    <circle cx="1002" cy="314" r="3"/>
+    <circle cx="1067" cy="330" r="2"/>
+  </g>
+</svg>
