@@ -10,13 +10,25 @@
   <a href="https://github.com/memegeko/aero7-shell">
     <img src="https://img.shields.io/badge/aero7--shell-view%20project-66B8FF?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=15324A" alt="View Aero7-shell" />
   </a>
-  <a href="mailto:lucas@miku-dayo.com">
-    <img src="https://img.shields.io/badge/email-say%20hello-86E36A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=15324A" alt="Email Lucas" />
+  <a href="mailto:geko@miku-dayo.com">
+    <img src="https://img.shields.io/badge/email-say%20hello-86E36A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=15324A" alt="Email Geko" />
   </a>
 
   <br /><br />
 
-  <b>ICT System Engineer student from the Netherlands</b><br />
+  <a href="https://discord.com/users/838354851099312138">
+    <img src="https://img.shields.io/badge/discord-meme__geko-39C5BB?style=flat-square&logo=discord&logoColor=white&labelColor=15324A" alt="Discord" />
+  </a>
+  <a href="https://steamcommunity.com/id/Meme_geko/">
+    <img src="https://img.shields.io/badge/steam-Meme__geko-66B8FF?style=flat-square&logo=steam&logoColor=white&labelColor=15324A" alt="Steam" />
+  </a>
+  <a href="https://www.tiktok.com/@geko.ofc">
+    <img src="https://img.shields.io/badge/tiktok-%40geko.ofc-86E36A?style=flat-square&logo=tiktok&logoColor=white&labelColor=15324A" alt="TikTok" />
+  </a>
+
+  <br /><br />
+
+  <b>ICT System Engineer student from the Netherlands 🇳🇱</b><br />
   <sub>Arch Linux, self-hosting, web projects, and an unreasonable amount of desktop theming.</sub>
 
 </div>
@@ -61,6 +73,31 @@ specialty    turning "wouldn't it be cool if..." into a real project
 | [**BackroomsBlocks**](https://github.com/memegeko/backrooms-blocks) | Fabric + Polymer Minecraft mod with server-side Backrooms blocks, generation, flickering lights, ambience, and vanilla-client support. | Active |
 | [**Aero7 Package Repository**](https://github.com/memegeko/aero7-repo) | Signed binary Arch package infrastructure for Aero7-shell. | Alpha |
 | [**Nightfall Casino**](https://github.com/memegeko/NIGHTFALL_casino) | Full-stack fake-credit casino simulator built as a finished school project. No real money or gambling. | Finished / archived |
+| **KeskChat** | Privacy-minded, E2EE realtime chat platform built with Next.js as a school project. | Discontinued |
+| **Kesk OS** | Custom Arch-based Linux distro with its own visual identity, built alongside Aero7-shell. | On hold |
+
+## system profile
+
+<div align="center">
+
+| | |
+| --- | --- |
+| **Location** | The Netherlands 🇳🇱 |
+| **Pronouns** | he/him |
+| **Favorite Vocaloid** | Hatsune Miku |
+| **Favorite game** | currently undecided |
+| **Operating system** | Arch Linux + KDE Plasma |
+| **Current project** | [miku-dayo.com](https://geko.miku-dayo.com) |
+
+</div>
+
+### interests
+
+<div align="center">
+
+`Hatsune Miku` `Vocaloid` `Linux` `Arch Linux` `KDE Plasma` `Windows 7 Aero` `Frutiger Aero` `Self-hosting` `Proxmox` `Backrooms` `Retro technology` `Anime` `Games` `Web design` `Music`
+
+</div>
 
 ## tools i keep reaching for
 
