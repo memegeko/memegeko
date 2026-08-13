@@ -1,131 +1,130 @@
-<p align="center">
-  <img src="./assets/geko-aero-banner.svg" width="100%" alt="Geko — a personal corner of the internet" />
-</p>
-
 <div align="center">
 
-  <a href="https://geko.miku-dayo.com">
-    <img src="https://img.shields.io/badge/myhome-visit%20site-39C5BB?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=15324A" alt="Visit myhome" />
-  </a>
-  <a href="https://github.com/memegeko/aero7-shell">
-    <img src="https://img.shields.io/badge/aero7--shell-view%20project-66B8FF?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=15324A" alt="View Aero7-shell" />
-  </a>
-  <a href="mailto:geko@miku-dayo.com">
-    <img src="https://img.shields.io/badge/email-say%20hello-86E36A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=15324A" alt="Email Geko" />
-  </a>
+<img src="https://geko.miku-dayo.com/media/miku-chibi.webp" width="170" alt="Hatsune Miku themed profile artwork for Geko">
 
-  <br /><br />
+# 01 · Geko's Miku Space
 
-  <a href="https://discord.com/users/838354851099312138">
-    <img src="https://img.shields.io/badge/discord-meme__geko-39C5BB?style=flat-square&logo=discord&logoColor=white&labelColor=15324A" alt="Discord" />
-  </a>
-  <a href="https://steamcommunity.com/id/Meme_geko/">
-    <img src="https://img.shields.io/badge/steam-Meme__geko-66B8FF?style=flat-square&logo=steam&logoColor=white&labelColor=15324A" alt="Steam" />
-  </a>
-  <a href="https://www.tiktok.com/@geko.ofc">
-    <img src="https://img.shields.io/badge/tiktok-%40geko.ofc-86E36A?style=flat-square&logo=tiktok&logoColor=white&labelColor=15324A" alt="TikTok" />
-  </a>
+### `ONLINE` — building cool things on Arch btw
 
-  <br /><br />
+[![Website](https://img.shields.io/badge/⌂_GEKO.MIKU--DAYO.COM-43BCE3?style=for-the-badge&labelColor=063452)](https://geko.miku-dayo.com/)
+[![Aero7](https://img.shields.io/badge/⊞_AERO7-BETA_1-65FF3B?style=for-the-badge&labelColor=063452)](https://aero7.miku-dayo.com/)
+[![GitHub](https://img.shields.io/badge/⌘_GITHUB-MEMEGEKO-FFFFFF?style=for-the-badge&labelColor=063452)](https://github.com/memegeko)
 
-  <b>ICT System Engineer student from the Netherlands 🇳🇱</b><br />
-  <sub>Arch Linux, self-hosting, web projects, and an unreasonable amount of desktop theming.</sub>
+**Professional leek enjoyer 🌱**  
+*Linux · Miku · Aero · self-hosting · suspiciously complicated projects*
 
 </div>
 
 ---
 
-## hey, i'm geko 👋
+## 02 · Geko.exe
 
-I'm **Lucas**, better known online as **Geko**. I like building things that feel personal: self-hosted sites, Linux desktops, game projects, and tiny pieces of the internet that still have some character.
+Hey, I'm **Geko** — an ICT System Engineer student from the Netherlands. I build Linux desktops, self-hosted services, web projects, Minecraft experiments, and small corners of the internet with actual personality.
 
 ```text
-handle       @memegeko
-daily drive  Arch Linux + KDE Plasma
-home lab     Proxmox, containers, VMs, Docker, Cloudflare
-current vibe Frutiger Aero + Windows 7 nostalgia + Hatsune Miku
-specialty    turning "wouldn't it be cool if..." into a real project
+HANDLE          @memegeko
+DAILY DRIVE     Arch Linux + KDE Plasma
+HOME LAB        Proxmox · containers · VMs · Docker · Cloudflare
+CURRENT VIBE    Hatsune Miku · Frutiger Aero · Windows 7 · Web 2008
+NOW BUILDING    Aero7
+LEEK SUPPLY     stable
 ```
 
-## what i'm building now
+<div align="center">
+
+![Miku Fan](https://img.shields.io/badge/MIKU-FAN-43BCE3?style=flat-square&labelColor=063452)
+![Arch BTW](https://img.shields.io/badge/ARCH-BTW-65FF3B?style=flat-square&labelColor=063452)
+![Web 2008](https://img.shields.io/badge/WEB-2008-D7FF3D?style=flat-square&labelColor=063452)
+![Aero Club](https://img.shields.io/badge/AERO-CLUB-FFFFFF?style=flat-square&labelColor=063452)
+
+</div>
+
+## 03 · Current project — Aero7
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/memegeko/MyHome">🏠 myhome</a></h3>
-      <p>A locally hosted, MySpace-style personal homepage with Frutiger Aero, Windows 7, and Miku-inspired energy.</p>
-      <p>It's my little social hub for music, projects, links, and whatever else belongs on my corner of the internet.</p>
-      <p><code>LIVE</code> <code>LOCAL SOURCE</code> <code>IN DEVELOPMENT</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/memegeko/aero7-shell">🪟 Aero7-shell</a></h3>
-      <p>A post-install setup system that turns a fresh minimal Arch installation into a KDE Plasma 6 Wayland desktop inspired by Windows 7 Ultimate.</p>
-      <p>Modular, resumable, reversible, and backed by its own signed Arch package repository.</p>
-      <p><code>PUBLIC</code> <code>ALPHA</code> <code>BASH</code> <code>ARCH LINUX</code></p>
-    </td>
-  </tr>
+<tr>
+<td width="62%" valign="top">
+
+### [Aero7](https://github.com/memegeko/aero7)
+
+An independent Arch Linux-based operating system that brings the familiar, glassy Aero desktop experience to a modern KDE Plasma 6 Wayland foundation.
+
+- Dedicated graphical installer with no live desktop
+- Matching boot, setup, login, desktop, sounds, icons, and applications
+- Signed Aero7 package repository
+- Built for x86-64 UEFI PCs and virtual machines
+- Currently available as **Beta 1**
+
+[**Official website**](https://aero7.miku-dayo.com/) · [**Download Beta 1**](https://github.com/memegeko/aero7/releases/tag/v0.1.0-beta.1) · [**Project repository**](https://github.com/memegeko/aero7)
+
+</td>
+<td width="38%" valign="top">
+
+### System status
+
+| Component | State |
+| --- | --- |
+| Main OS | **Beta 1** |
+| Desktop | Plasma 6 |
+| Session | Wayland |
+| Base | Arch Linux |
+| Firmware | UEFI |
+| Development | Active |
+
+</td>
+</tr>
 </table>
 
-## other things from the lab
+## 04 · Projects folder
 
-| Project | What it is | Status |
+| Project | What it does | Status |
 | --- | --- | --- |
-| [**BackroomsBlocks**](https://github.com/memegeko/backrooms-blocks) | Fabric + Polymer Minecraft mod with server-side Backrooms blocks, generation, flickering lights, ambience, and vanilla-client support. | Active |
-| [**Aero7 Package Repository**](https://github.com/memegeko/aero7-repo) | Signed binary Arch package infrastructure for Aero7-shell. | Alpha |
-| [**Nightfall Casino**](https://github.com/memegeko/NIGHTFALL_casino) | Full-stack fake-credit casino simulator built as a finished school project. No real money or gambling. | Finished / archived |
-| **KeskChat** | Privacy-minded, E2EE realtime chat platform built with Next.js as a school project. | Discontinued |
-| **Kesk OS** | Custom Arch-based Linux distro with its own visual identity, built alongside Aero7-shell. | On hold |
+| [**Aero7**](https://github.com/memegeko/aero7) | The complete installable Aero7 operating system and guided installer. | **Beta** |
+| [**Aero7-shell**](https://github.com/memegeko/aero7-shell) | Turns a fresh Arch installation into the Aero7 Plasma desktop. | Active |
+| [**Programs Center**](https://github.com/memegeko/aero7-programs-center) | Friendly graphical software installation and update center. | Testing |
+| [**Computer Management**](https://github.com/memegeko/aero7-computer-management) | Aero-style administration console for Linux system tools. | In development |
+| [**Control Panel**](https://github.com/memegeko/aero7-control-panel-) | Familiar graphical home for Aero7 and Linux settings. | In development |
+| [**Aero7 package repository**](https://github.com/memegeko/aero7-repo) | Signed binary package infrastructure used by Aero7. | Active |
+| [**BackroomsBlocks**](https://github.com/memegeko/backrooms-blocks) | Fabric + Polymer Backrooms blocks, generation, lighting, and ambience. | Active |
+| [**Geko's Miku Space**](https://geko.miku-dayo.com/) | My turquoise Miku-flavored personal internet zone. | Online |
 
-## system profile
-
-<div align="center">
+## 05 · Computers & homelab
 
 | | |
 | --- | --- |
-| **Location** | The Netherlands 🇳🇱 |
-| **Pronouns** | he/him |
-| **Favorite Vocaloid** | Hatsune Miku |
-| **Favorite game** | currently undecided |
-| **Operating system** | Arch Linux + KDE Plasma |
-| **Current project** | [miku-dayo.com](https://geko.miku-dayo.com) |
+| 🖥 **Main computer** | Arch Linux workstation |
+| ◈ **Desktop** | KDE Plasma and Aero experiments |
+| ▦ **Virtualization** | Proxmox home lab |
+| ☁ **Self-hosting** | Websites, containers, bots, and infrastructure |
+| ⚗ **Experiments** | Linux tooling, games, and strange websites |
+| 🔒 **Privacy** | No internal addresses published |
 
-</div>
-
-### interests
+## 06 · Toolbox
 
 <div align="center">
 
-`Hatsune Miku` `Vocaloid` `Linux` `Arch Linux` `KDE Plasma` `Windows 7 Aero` `Frutiger Aero` `Self-hosting` `Proxmox` `Backrooms` `Retro technology` `Anime` `Games` `Web design` `Music`
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-063452?style=for-the-badge&logo=archlinux&logoColor=43BCE3)
+![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-063452?style=for-the-badge&logo=kde&logoColor=43BCE3)
+![Linux](https://img.shields.io/badge/Linux-063452?style=for-the-badge&logo=linux&logoColor=65FF3B)
+![Bash](https://img.shields.io/badge/Bash-063452?style=for-the-badge&logo=gnubash&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-063452?style=for-the-badge&logo=typescript&logoColor=43BCE3)
+![Node.js](https://img.shields.io/badge/Node.js-063452?style=for-the-badge&logo=nodedotjs&logoColor=65FF3B)
+![Docker](https://img.shields.io/badge/Docker-063452?style=for-the-badge&logo=docker&logoColor=43BCE3)
+![Proxmox](https://img.shields.io/badge/Proxmox-063452?style=for-the-badge&logo=proxmox&logoColor=D7FF3D)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-063452?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF)
 
 </div>
 
-## tools i keep reaching for
+## 07 · GitHub weather report
 
 <div align="center">
 
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-15324A?style=for-the-badge&logo=archlinux&logoColor=39C5BB)
-![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-15324A?style=for-the-badge&logo=kde&logoColor=66B8FF)
-![Linux](https://img.shields.io/badge/Linux-15324A?style=for-the-badge&logo=linux&logoColor=86E36A)
-![Bash](https://img.shields.io/badge/Bash-15324A?style=for-the-badge&logo=gnubash&logoColor=39C5BB)
-![Java](https://img.shields.io/badge/Java-15324A?style=for-the-badge&logo=openjdk&logoColor=66B8FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-15324A?style=for-the-badge&logo=typescript&logoColor=39C5BB)
-![Node.js](https://img.shields.io/badge/Node.js-15324A?style=for-the-badge&logo=nodedotjs&logoColor=86E36A)
-![Docker](https://img.shields.io/badge/Docker-15324A?style=for-the-badge&logo=docker&logoColor=66B8FF)
-![Proxmox](https://img.shields.io/badge/Proxmox-15324A?style=for-the-badge&logo=proxmox&logoColor=39C5BB)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-15324A?style=for-the-badge&logo=cloudflare&logoColor=86E36A)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=memegeko&show_icons=true&bg_color=063452&title_color=43BCE3&text_color=FFFFFF&icon_color=65FF3B&border_color=43BCE3" alt="Geko's GitHub statistics">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=memegeko&layout=compact&bg_color=063452&title_color=43BCE3&text_color=FFFFFF&border_color=43BCE3" alt="Geko's most used languages">
 
-</div>
+<br><br>
 
-## github weather report
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=memegeko&show_icons=true&hide_border=false&bg_color=0D1B2A&title_color=39C5BB&text_color=EAFBFF&icon_color=86E36A&border_color=39C5BB&rank_icon=github" alt="Geko's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=memegeko&layout=compact&hide_border=false&bg_color=0D1B2A&title_color=39C5BB&text_color=EAFBFF&border_color=39C5BB" alt="Geko's most used languages" />
-
-  <br /><br />
-
-  <img src="https://raw.githubusercontent.com/memegeko/memegeko/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+<img src="https://raw.githubusercontent.com/memegeko/memegeko/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake">
 
 </div>
 
@@ -133,7 +132,10 @@ specialty    turning "wouldn't it be cool if..." into a real project
 
 <div align="center">
 
-  <b>professional leek enjoyer 🌱</b><br />
-  <sub>made with too much teal, several VMs, and absolutely no restraint.</sub>
+### ♪ NOW ONLINE — building cool things on Arch btw — leek supply: stable — ♪
+
+[Email](mailto:geko@miku-dayo.com) · [Discord](https://discord.com/users/838354851099312138) · [Steam](https://steamcommunity.com/id/Meme_geko/) · [TikTok](https://www.tiktok.com/@geko.ofc)
+
+<sub>best viewed with curiosity · made for Geko · 2026</sub>
 
 </div>
